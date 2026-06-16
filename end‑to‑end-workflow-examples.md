@@ -273,11 +273,3 @@ Prompt:
 
 ---
 
-# **Want the next level?**  
-I can generate:
-
-- **A full folder structure with these workflows included**  
-- **An advanced workflow pack (10+ workflows)**  
-- **A Claude‑optimized prompt library**  
-
-Just tell me which direction you want to expand.
