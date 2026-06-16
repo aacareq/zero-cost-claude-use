@@ -151,10 +151,6 @@ MIT License — open, remixable, and free forever.
 
 ---
 
-If you want, I can also generate:
+## Reference links 
 
-- **A logo for the repo**  
-- **A full folder structure**  
-- **Starter templates**  
-
-Just tell me what direction you want to expand next.
+-  Reusable modules - https://copilot.microsoft.com/shares/aUpw3HPTK53YAxeVNX2ma
